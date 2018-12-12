@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home Page
+heading: test
+sub_heading: test
+banner_image: "/uploads/Webpage-draft-2.jpg"
+
 ---
