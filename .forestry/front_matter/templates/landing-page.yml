@@ -24,7 +24,7 @@ fields:
   name: layout
   label: Layout
   hidden: true
-  default: home
+  default: landing-page
 pages:
 - home-page.md
 - test.md
