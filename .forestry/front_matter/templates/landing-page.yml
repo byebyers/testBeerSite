@@ -3,9 +3,11 @@ label: landing-page
 hide_body: false
 is_partial: false
 fields:
-- type: text
-  name: title
+- name: title
   label: Title
+  type: text
+  hidden: false
+  default: ''
   config:
     required: true
 - type: text
