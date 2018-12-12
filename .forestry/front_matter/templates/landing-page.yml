@@ -22,3 +22,4 @@ fields:
   name: layout
   label: Layout
   hidden: true
+  default: home
