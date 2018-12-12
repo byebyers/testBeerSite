@@ -25,3 +25,4 @@ fields:
   default: home
 pages:
 - home-page.md
+- test.md
