@@ -1,0 +1,24 @@
+---
+label: landing-page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: heading
+  label: Hero Heading
+- type: text
+  name: sub_heading
+  label: Hero Sub Heading
+- type: file
+  name: banner_image
+  label: Hero Image
+  description: 'Dimensions: 1200px by 580px'
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
