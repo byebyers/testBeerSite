@@ -27,6 +27,7 @@ fields:
   default: landing-page
 pages:
 - home-page.md
+- test4.md
 - test.md
 - test2.md
 - test3.md
