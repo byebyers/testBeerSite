@@ -15,3 +15,5 @@ fields:
   label: Layout
   hidden: true
   default: beer
+pages:
+- _beer/test.md
