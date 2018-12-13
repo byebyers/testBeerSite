@@ -28,7 +28,10 @@ defaults:
       path: ""
     values:
       layout: page
-
+collections:
+  -beers:
+    output: true
+    permalink: "/about/:path/"
 # Build settings
 markdown: kramdown
 theme: minima
