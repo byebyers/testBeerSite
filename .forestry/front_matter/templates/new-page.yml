@@ -1,0 +1,21 @@
+---
+label: page-builder
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: blocks
+- type: datetime
+  name: date
+  label: Date
+- type: blocks
+  name: page_sections
+  label: Page Sections
+  template_types:
+  - hero-banner
