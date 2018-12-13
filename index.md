@@ -1,8 +1,8 @@
 ---
 title: Home
 layout: landing-page
-heading: Belkirk College
-sub_heading: test
+heading: Big Title
+sub_heading: subtitle
 banner_image: "/uploads/Webpage-draft-2.jpg"
 menu:
   navigation:
