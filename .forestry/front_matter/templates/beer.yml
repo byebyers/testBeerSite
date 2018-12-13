@@ -10,3 +10,8 @@ fields:
   name: thumbnail
   label: Thumbnail
   description: " Square image, Max 500 pixels"
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: beer
