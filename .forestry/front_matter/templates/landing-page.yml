@@ -25,3 +25,5 @@ fields:
   label: Layout
   hidden: true
   default: landing-page
+pages:
+- test6.md
